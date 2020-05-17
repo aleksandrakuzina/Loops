@@ -24,7 +24,7 @@ public class MySecondClass {
                 System.out.println(b / c);
             } else {
                 System.out.println("ошибка");
-            }
+         kfjdggjdmflgknflf   }
         }
 
 
